@@ -1,0 +1,9 @@
+INSERT INTO `efmicroservice`.`reservas`
+(`costo`)
+VALUES
+(2500);
+
+INSERT INTO `efmicroservice`.`reservas`
+(`costo`)
+VALUES
+(6000);
